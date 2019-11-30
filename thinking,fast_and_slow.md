@@ -41,3 +41,20 @@
 * Studies show that cognitive control and intelligence are correlated in many individuals. 
 * Some psychologists believe that there are two independent and distinct parts of System 2: rationality and intelligence
 
+### Chapter 4: The Associative Machine
+
+* Our minds automatically construct **associatively coherent** graphs of thoughts.
+* Our minds maintain an internal graph where the nodes are concepts.
+* These concepts are linked in various ways, e.g. `causes -> effects`, `things -> properties`, `things -> categories`.
+* When exposed to stimuli, our minds automatically begin to traverse the graph centered at the node(s) representing the stimuli.
+* This graph traversal is performed by System 1. Only a subset of the activated nodes will register in the consciousness of System 2.
+* In 1748, David Hume identified 3 of the rules that explain the associativity of ideas: resemblance, contiguity in time and place, and causality.
+* In the 1908s, researchers discovered that exposure to a word influences the ease with which related works can be evoked.
+* E.g. after exposure to the word `EAT`, participants are more likely to complete `SO_P` as `SOUP` than as `SOAP`.
+* This is an example of the **priming effect**.
+* Our minds are susceptible to the priming effect (though System 2 is unconscious of this phenomenon).
+* The priming effect takes many forms. It can be triggered by any stimuli, not just words. And it influences our behavior, not just our thoughts.
+* E.g. when unconsciously made to smile (by holding a pencil in their mouths), participants find things more funny than when they are made to frown.
+* If you "act calm and kind regardless of how you feel", then you are likely to actually feel more calm and kind. (and vice versa!)
+* Money tends to prime people for individualism. Similarly, cultures that present large images of the "Dear Leader" suppress independent thoughts and actions.
+
