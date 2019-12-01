@@ -58,3 +58,36 @@
 * If you "act calm and kind regardless of how you feel", then you are likely to actually feel more calm and kind. (and vice versa!)
 * Money tends to prime people for individualism. Similarly, cultures that present large images of the "Dear Leader" suppress independent thoughts and actions.
 
+### Chapter 5: Cognitive Ease
+
+* Our brains measure how well 'things are going' via a 'dial' known as **cognitive ease**.
+* Cognitive ease ranges between `easy` and `strained` values and is part of System 1.
+* There are several inputs that influence cognitive ease. And cognitive ease impacts our state of mind in numerous ways.
+* Cognitive ease is influenced by the availability of related experiences, display clarity, whether an idea is primed, and overall good mood.
+* Cognitive ease affects our mood by making things feel familiar, true, good, and effortless.
+* The inputs to cognitive ease are interchangeable. This results in a funnelling/merging effect of cognitive ease inputs.
+* As such, when you notice a change in cognitive ease, it is difficult to trace it back to a specific input.
+* High levels of cognitive ease make one feel that an experience/input is familiar. As such, people think that names presented in clear and crisp fonts are more familiar.
+* Repetition induces cognitive ease and comforting feelings of familiarity. This is called the **mere exposure effect**.
+* As a general rule, the mere exposure effect predicts that the more you are exposed to something, the more comfortable you will feel around it.
+* And conversely, new/novel/unfamiliar stimuli will make you feel uncomfortable.
+* High cognitive ease is associated with increased reliance on System 1. And low cognitive ease is associated with increased reliance on System 2.
+* A consequence of cognitive ease and the mere exposure effect is that the more you hear or see something, the more good and true it will seem (regardless of whether it actually is).
+
+### Chapter 6: Norms, Surprises, and Causes
+
+* Our heads contain a powerful computer that represents the structure of our world with associative links in a network of concepts/ideas.
+* The spreading of activation in this network is automatic (System 1), but we (System 2) have a limited ability to control memory searches. 
+* We also can program it so that detection of an event in the environment attracts our attention.
+* System 1 maintains an internal model of our world that represents spatial and temporal patterns we experience (primarily over short time spans).
+* When this internal model is violated, we experience surprise. 
+* The capacity for surprise is essential to our mental life and is a sensitive indicator of how we understand the world.
+* System 1 automatically learns which events are to be considered normal/expected.
+* When a particular event occurs more than once, System 1 will begin to consider it normal. (Even if the the event is actually abnormal, and the recurrence was mere coincidence.)
+* System 1 is extremely adept at finding causal connections between successive events in time. System 2 will generally accept explanations offered by System 1 at face value.
+* System 1 "finds" causal connections even when no such connections exist. (This is a major pitfall in human thinking.)
+* System 1 is primed to identify 2 types of causality: physical and intentional
+* Physical causality explains how "dumb" physical phenomena occur. Such as when a moving object impacts an inanimate object, which then begins to move.
+* Intentional causality explains how "free willed" actions occur. Such as picking up a salt shaker. (Thus, technically speaking, intentional causality is a subtype of physical causality.)
+* Paul Bloom (a psychologist) believes that this deep rooted tendency to distinguish physical and intentional causality might explain the ubiquity of religion across cultures.
+
