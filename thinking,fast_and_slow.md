@@ -115,3 +115,14 @@
 * Perhaps ironically, System 1 can often create more coherent stories when it has less information to work with, because it doesn't have to account for as much nuance.
 * This blindness to what we do not see or know is termed: what you see is all there is, or **WYSIATI**.
 
+### Chapter 8: How Judgments Happen
+
+* System 1 represents things via prototypes and sets of typical examples.
+* This makes System 1 very good at intuiting averages, but relatively poor at intuiting sums.
+* System 1 does not factor in the number of example it has for an object when performing sum-like computations about it.
+* System 1 is able to easily map intensities between different domains (e.g. sound, light, and political power). This is called **intensity matching**.
+* When System 2 invokes System 1 to answer a question, System 1 inevitably does far more than is actually required.
+* This excess computation is termed the **mental shotgun**.
+* Mental shotgunning can actually slow down response times for tasks (though often only on the order of seconds or subseconds).
+* Mental shotgunning can also detrimentally impact performance on certain tasks. (And presumably improve it in other cases).
+
