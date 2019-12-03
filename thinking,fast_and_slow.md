@@ -91,3 +91,27 @@
 * Intentional causality explains how "free willed" actions occur. Such as picking up a salt shaker. (Thus, technically speaking, intentional causality is a subtype of physical causality.)
 * Paul Bloom (a psychologist) believes that this deep rooted tendency to distinguish physical and intentional causality might explain the ubiquity of religion across cultures.
 
+### Chapter 7: A Machine for Jumping to Conclusions
+
+* System 1 frequently jumps to conclusions by automatically filling in missing facts, rather than building up a logically sound argument from well defined premises. 
+* This is a useful property, because our world is filled with ambiguities and assumptions must be made to move quickly and efficiently.
+* When the missing information can be accurately inferred, jumping to conclusions is actually more efficient.
+* System 1 relies heavily upon context and associations when jumping to conclusions (which improves the accuracy of said conclusions).
+* Inputs to System 1 are often ambiguous. Thus, to interpret the input, multiple (competing) potential interpretations must be evaluated.
+* This evaluation is done automatically and subconsciously by System 1. System 2 is not aware that it is even happening, and certainly has no say in the matter.
+* Due to the nature of associative machines, System 1 is highly susceptible to **confirmation bias**. 
+* This is because System 1 automatically finds supporting and confirming evidence via its associative network.
+* The confirmatory bias of System 1 favors uncritical acceptance of suggestions and exaggerates the liklihood of extreme and improbable events.
+* Our minds tend to like/dislike everything about a person. This is known as the **halo effect**.
+* The halo effect is one of many ways that System 1's model of the world is simpler and more coherent than the real thing.
+* Our impression of people, ideas, and things in general are disproportionately influenced by our initial experience with them.
+* We form an initial opinion upon our first exposure to something. And subsequent experiences tend to align with that opinion due to the halo effect.
+* Example: Essay grades within a test tend to be fairly consistent. The grader forms an initial opinion based on the first essay they read, and filter subsequent essays through that lense.
+* Example: In meetings with open discussion formats, the group's opinion is heavily swayed by whoever speaks first and most assertively. 
+* Independent judgements and decorrelated errors improve the quality and quantity of obtained information.
+* System 1 tends to discount the importance of information that we do not have. This is because associative machines can only represent activated ideas. 
+* Information that isn't retrieved (because it doesn't exist in the network, or just wasn't activated) may as well not exist.
+* System 1 simply tries to create coherent stories. The quality and quantity of the information the stories are based upon is largely irrelevant to it.
+* Perhaps ironically, System 1 can often create more coherent stories when it has less information to work with, because it doesn't have to account for as much nuance.
+* This blindness to what we do not see or know is termed: what you see is all there is, or **WYSIATI**.
+
