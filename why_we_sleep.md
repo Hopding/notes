@@ -51,7 +51,7 @@
 
 ### Chapter 3: Defining and Generating Sleep
 
-* There are two types of sleep: NREM (non-rapid eye movement) and REM (rapid eye movement) sleep.
+* There are two types of sleep: **NREM** (non-rapid eye movement) and **REM** (rapid eye movement) sleep.
 * NREM itself is subdivided into 4 stages, each with increasing "depth".
 * A single night of sleep is divided into several cycles. 
 * Each cycle begins with a period of NREM sleep, followed by a period of REM sleep.
@@ -61,7 +61,7 @@
   1. Noisy waves. No discernible patterns.
   2. Highly synchronous waves. Obvious discernible patterns.
   3. Noisy waves. Electrical signature is very similar to wakeful brain activity.
-* During NREM sleep, the thalamus blocks all sensory inputs to the cortex.
+* During NREM sleep, the **thalamus** blocks all sensory inputs to the cortex.
 * The slow, synchronous waves of NREM sleep allow distant regions of the brain to communicate.
 * During NREM sleep, the brain transfers memory from fragile, short-term storage to safer, long-term locations.
 * During REM sleep, the thalamus reopens the sensory gate. 
@@ -69,6 +69,6 @@
 * During REM sleep, the brain is active and functioning similar to a wakeful state. This includes generation of motor commands.
 * The brain integrates memories and experiences during REM sleep. This enhances your understanding of the world with innovative insights and problem-solving abilities.
 * To prevent your body from physically reacting to the 'hallucinations' of REM sleep, the brain releases a powerful disabling signal seconds before REM sleep begins.
-* This signal induces "atonia", effectively paralyzing your body and making you completely limp.
+* This signal induces **atonia**, effectively paralyzing your body and making you completely limp.
 
 
